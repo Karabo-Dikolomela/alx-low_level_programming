@@ -14,7 +14,7 @@ int main(void)
 	while (y < 2772)
 	{
 		x = rand() % 128;
-		if ((c + x) > 2772)
+		if ((y + x) > 2772)
 			break;
 		y = y + x;
 		printf("%y", x);
