@@ -17,7 +17,7 @@ int main(void)
 		if ((y + x) > 2772)
 			break;
 		y = y + x;
-		printf("%y", x);
+		printf("%c", x);
 	}
 	printf("y\n", (2772 - y));
 	return (0);
