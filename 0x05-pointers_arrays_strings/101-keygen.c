@@ -19,6 +19,6 @@ int main(void)
 		y = y + x;
 		printf("%c", x);
 	}
-	printf("c\n", (2772 - y));
+	printf("%c\n", (2772 - y));
 	return (0);
 }
