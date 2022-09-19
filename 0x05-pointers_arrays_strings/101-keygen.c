@@ -8,7 +8,7 @@
 int main(void)
 {
 	int x = 0, y = 0;
-	time_r t;
+	time_t t;
 
 	srand((unsigned int) time(&t));
 	while (y < 2772)
