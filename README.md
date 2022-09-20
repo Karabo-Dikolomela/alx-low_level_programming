@@ -15,4 +15,4 @@ All of the following folders are projects done during the studies:
 |[0x02-functions_nested_loops](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x02-functions_nested_loops)|header files, functions, loops and nested loops|
 |[0x03_debugging](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x03-debugging)|debug in **C language**|
 |[0x04-more_functions_nested_loops](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops)|nested loops in **C language**|
-|[0x05-pointers_arrays_strings]()|pointers and arrays in **C language**|
+|[0x05-pointers_arrays_strings](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)|pointers and arrays in **C language**|
