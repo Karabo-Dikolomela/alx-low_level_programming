@@ -10,3 +10,9 @@ Repository about Low Level Programming in C Language
 All of the following folders are projects done during the studies:
 | Project name | Description |
 | :----------: | :---------: |
+|||
+|||
+|||
+|||
+|||
+|||
