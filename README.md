@@ -1,5 +1,5 @@
-# alx-low_level_programming module
-Repository about Low Level Programming in C Language
+# alx-low_level_programming
+Low Level Programming module, carried out during Full Stack Software Engineering studies at [ALX](https://www.alxafrica.com/)
 
 ### Technologies
 * Scripts written in Bash 5.0.17(1)
