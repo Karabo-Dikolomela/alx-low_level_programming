@@ -13,6 +13,6 @@ All of the following folders are projects done during the studies:
 |[0x00-hello_world](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x00-hello_world)| Basic command using local library functions (puts, prints, putchar), compilation process with gcc in **C language**|
 |[0x01-variables_if_else_while](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x01-variables_if_else_while)|arithmetic operators, relational operators, booleen operators, comments, declaring variables and loops in **C language**|
 |[0x02-functions_nested_loops](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x02-functions_nested_loops)|header files, functions, loops and nested loops|
-|[0x03_debugging]()|debug in **C language**|
+|[0x03_debugging](https://github.com/Karabo-Dikolomela/alx-low_level_programming/tree/main/0x03-debugging)|debug in **C language**|
 |[0x04-more_functions_nested_loops]()|nested loops in **C language**|
 |[0x05-pointers_arrays_strings]()|pointers and arrays in **C language**|
