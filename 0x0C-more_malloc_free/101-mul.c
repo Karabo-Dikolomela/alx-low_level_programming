@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
 	len1 = _strlen(s1);
 	len2 = _strlen(s2)
 	len = len1 + len2 + 1;
-	result = malloc(sizeof(int) *len);
+	result = malloc(sizeof(int) * len);
 	if (!result)
 		return (1);
 	for (i = 0; i <= len1 + len2; i++)
@@ -86,7 +86,7 @@ int main(int argc, char *argv[])
 	}
 	for (i = 0; i < len - 1; i++)
 	{
-		if (result [i])
+		if (result[i])
 			a = 1;
 		if (a)
 			_putchar(result[i] + '0');
