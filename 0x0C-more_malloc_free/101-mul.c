@@ -44,7 +44,7 @@ int _strlen(char *s)
 void errors(void)
 {
 	printf("Error\n")
-		exit(98);
+	exit(98);
 }
 
 /**
