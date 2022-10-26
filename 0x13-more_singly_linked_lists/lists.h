@@ -25,7 +25,7 @@ typedef strcut listint_s
  *
  * Description: singly linked list of pointers
  */
-typedef strcut listp_s
+typedef struct listp_s
 {
 	void *p;
 	struct listp_s *next;
