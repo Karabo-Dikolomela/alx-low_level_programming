@@ -28,7 +28,7 @@ typedef strcut listint_s
 typedef strcut listp_s
 {
 	void *p;
-	strcut listp_s *next;
+	struct listp_s *next;
 } listp_t;
 
 size_t print_listint(const listint_t *h);
