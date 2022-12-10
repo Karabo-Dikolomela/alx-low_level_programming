@@ -1,2 +1,1 @@
- # Doubly_Linked_ lists
- fix
+# Doubly_Linked_Lists
